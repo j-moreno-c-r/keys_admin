@@ -1,0 +1,14 @@
+something like: 
+1: sha256 hash to verificate and free the acesss;
+2: PGP encryption the keys:
+    somethinglike:
+        1: A public and private key seeding headers to him self
+        2: headers on sub files
+        3: dict with the names of the sites in a main.txt
+        4: and the paths to the files....
+
+obs: no interfaces on this bullshit, and no envs... 
+    and more important i need random generator keys...
+
+
+
